@@ -39,4 +39,4 @@ Actions  > xioabei daka > get-points
 ![](https://i.loli.net/2021/02/05/iXz96WZeScOIGbE.png)
 
 此后， 将会在每天10点多签到一次  2
-若有需求，可以在[.github/workflows/run.yml]中自行修改 
+若有需求，可以在[.github/workflows/run.yml]中自行修改
